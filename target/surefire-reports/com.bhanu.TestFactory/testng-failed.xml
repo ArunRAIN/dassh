@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.bhanu.TestFactory]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.cucumber.CucumberTestImpl">
+        <methods>
+          <include name="cucumber"/>
+        </methods>
+      </class> <!-- com.cucumber.CucumberTestImpl -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.bhanu.TestFactory] -->
